@@ -1,0 +1,23 @@
+[11-Feb-2026 10:47:55 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[13-Feb-2026 10:49:14 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[16-Feb-2026 04:22:38 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[26-Feb-2026 09:33:40 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[02-Mar-2026 05:29:54 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[05-Mar-2026 04:54:33 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[09-Mar-2026 06:42:00 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[11-Mar-2026 11:16:03 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[16-Mar-2026 06:53:48 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[23-Mar-2026 13:06:39 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[26-Mar-2026 05:38:21 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[26-Mar-2026 09:53:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/ashleyb97.sg-host.com/public_html/wp-content/themes/divi-child/functions.php:149) in /home/customer/www/ashleyb97.sg-host.com/public_html/wp-includes/pluggable.php on line 1531
+[26-Mar-2026 09:56:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/ashleyb97.sg-host.com/public_html/wp-content/themes/divi-child/functions.php:149) in /home/customer/www/ashleyb97.sg-host.com/public_html/wp-includes/pluggable.php on line 1531
+[30-Mar-2026 07:29:12 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[01-Apr-2026 07:38:49 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[06-Apr-2026 07:37:41 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[08-Apr-2026 07:38:54 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[10-Apr-2026 05:59:13 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[13-Apr-2026 13:20:49 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[20-Apr-2026 05:33:20 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[22-Apr-2026 05:52:59 UTC] wp_auto_login: trying to login user_id==1 loginusername=adm_bari_wappnet to admin_url=https://ashleyb97.sg-host.com/wp-admin/
+[22-Apr-2026 06:46:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/customer/www/ashleyb97.sg-host.com/public_html/wp-content/themes/divi-child/functions.php on line 150
+[22-Apr-2026 06:48:29 UTC] CTCT API Error 400: [{"error_key":"contacts.api.validation.error","error_message":"create_source is missing, create_source does not have a valid value"}]

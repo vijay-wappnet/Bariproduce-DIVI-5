@@ -1,0 +1,17 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Block unnecessary system files
+Disallow: /wp-login.php
+
+# Block search result pages (thin content)
+Disallow: /?s=
+Disallow: /search/
+
+# Sitemap
+Sitemap: https://bariproduce.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
